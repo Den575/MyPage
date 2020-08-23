@@ -660,7 +660,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "text-align": "left"
             },
             "h4": {
